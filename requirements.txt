@@ -1,0 +1,5 @@
+aiogram==3.13.1
+gspread==6.1.2
+google-auth==2.34.0
+python-dotenv==1.0.1
+telethon==1.36.0
